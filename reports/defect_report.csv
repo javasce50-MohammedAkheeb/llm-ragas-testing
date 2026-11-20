@@ -1,0 +1,3 @@
+defect_id,category,description,test_id,severity,priority,status,recommendation
+OBS001,Out of Scope Handling,"The chatbot responded that it did not have enough information instead of explicitly explaining that the question was outside its restaurant-related scope.",REST009,Low,Low,Improvement Suggested,"Provide a clear message explaining that football predictions are outside the chatbot's scope."
+OBS002,Out of Scope Handling,"The chatbot responded that it did not have enough information instead of explicitly explaining that Python installation and machine learning tutorials were outside its restaurant-related scope.",REST010,Low,Low,Improvement Suggested,"Provide a clear message explaining that technical tutorials are outside the chatbot's scope."

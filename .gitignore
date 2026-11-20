@@ -1,0 +1,25 @@
+# Python virtual environment
+.venv/
+
+# Environment variables and API keys
+.env
+.env.*
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Evaluation outputs
+results/
+
+# IDE files
+.vscode/
+
+# Test cache
+.pytest_cache/

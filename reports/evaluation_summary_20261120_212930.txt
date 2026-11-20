@@ -1,0 +1,11 @@
+RAGAS EVALUATION SUMMARY
+========================
+
+Total test cases: 1
+Passed tests: 0
+Failed tests: 1
+Regression-style pass rate: 0.00%
+
+answer_relevancy: nan (threshold: 0.80)
+faithfulness: nan (threshold: 0.85)
+context_precision: nan (threshold: 0.80)
